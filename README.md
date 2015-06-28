@@ -65,3 +65,7 @@ We are on [Twitter](http://twitter.com/gocountly) and [Facebook](http://www.face
 * [Resources and documentation](http://count.ly/resources)
 * [Packages on Sourceforge for direct download](http://sf.net/projects/countly)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gorkem-cetin/countly-server/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
